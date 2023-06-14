@@ -1,23 +1,8 @@
-### Hi World, I'm Bhimgouda Patil 👋
+## Hi World, I'm Bhimgouda Patil 👋
+
+### Smart-Contract/Web3 Developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-412?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhimgouda-patil-05a254269/)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Bhimgouda&label=Profile%20views&color=0e75b6&style=flat" alt="Bhimgouda" /> </p>
 
-<!-- - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
-
-### ⚡ Github Stats
-
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=Bhimgouda&theme=radical&show_icons=true&include_all_commits=true&count_private=true"  display=block width=100% height=auto alt="1"></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhimgouda&theme=radical&layout=compact&hide=Jupyter%20Notebook&langs_count=8"  display=block height=190 align="center" alt="2"</td>
-   </tr>
-</table>
